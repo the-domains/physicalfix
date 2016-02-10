@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Physicalfix]]></title>
+        <description><![CDATA[Physicalfix]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 06:55:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Vision]]></title>
+            <description><![CDATA[<article><h1>Our Vision</h1><p>"To create a great
+social community of people (staff & clients) to join me in having fun,
+getting fit, achieving results and doing things they never thought
+possible."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec82f5151223154995f8eee3754ee4884aea21b2.jpg"></article>]]></description>
+            <link>undefinedour-vision/index.html</link>
+            <guid isPermaLink="false">91b822f5-212f-49db-9724-8995b2aa4893</guid>
+            <pubDate>Wed, 10 Feb 2016 06:55:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
