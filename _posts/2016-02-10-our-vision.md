@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Physical Fix Pt Vision
-datePublished: '2016-02-10T06:55:08.107Z'
-dateModified: '2016-02-10T06:54:58.243Z'
+description: ''
+datePublished: '2016-02-10T07:06:29.919Z'
+dateModified: '2016-02-10T07:06:20.808Z'
 title: Our Vision
 author: []
 authors: []
@@ -22,25 +22,20 @@ url: our-vision/index.html
 _type: Article
 
 ---
-# [Our Vision][0]
+# Our Vision
 
-"To create a great
-social community of people (staff & clients) to join me in having fun,
-getting fit, achieving results and doing things they never thought
-possible."
-![Saturday Morning Boxing Crew](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8954ae4f-e48f-493b-b363-5260041473fd.jpg)
+"To create a great social community of people (staff & clients) to join me in having fun, getting fit, achieving results and doing things they never thought possible."
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad2191e8-8425-4f66-ac53-1f134fee44c6.jpg)
 
-# [Our Mission][0]
+Are you being the best YOU can be?
 
-Fitness with Physical Fix PT
-will be a POSITIVE experience
+Are YOU doing what you truly want? 
 
-We will bring out the best in
-YOU, in our group & PT sessions
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d7990d3-54bc-4e5f-81e2-4c7b53b4354d.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4fc6ff6b0827588a072bd17dc83c2d4e/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9d7990d3-54bc-4e5f-81e2-4c7b53b4354d.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4fc6ff6b0827588a072bd17dc83c2d4e/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9d7990d3-54bc-4e5f-81e2-4c7b53b4354d.jpg)
+You've made a terrific step to improving your health by being on this page. 
 
-Uploading Item...
+Were really passionate about bringing out the best in people. We are a community for all shapes, sizes and fitness levels.
+We are all about exercise with a social aspect!! 
 
-[0]: null
+In summary we do fun! We believe fitness should be a POSITIVE experience; provide real, sustainable results; be varied; and most importantly be fun.
+
+COME JOIN IN AND GET FIT AT THE SAME TIME.
