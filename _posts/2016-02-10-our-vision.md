@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T07:06:29.919Z'
-dateModified: '2016-02-10T07:06:20.808Z'
+datePublished: '2016-02-10T07:19:37.395Z'
+dateModified: '2016-02-10T07:18:04.221Z'
 title: Our Vision
 author: []
 authors: []
