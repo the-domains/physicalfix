@@ -1,0 +1,28 @@
+name: Physicalfix
+favicon: null
+layout_spectrum: 0.937519438797608
+typography_spectrum: 0.48551607062108815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8787459330633283
+  lightness: 0.3222122946754098
+  saturation: 0.8894889445509762
+  rhythmicContrast: 0.5686753340996802
+purpose: []
