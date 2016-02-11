@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T06:33:44.859Z'
-dateModified: '2016-02-11T06:33:36.976Z'
+datePublished: '2016-02-11T07:15:58.988Z'
+dateModified: '2016-02-11T07:15:56.089Z'
 title: BOOTCAMP FEBRUARY 2016
 author: []
 sourcePath: _posts/2016-02-11-bootcamp-february-2016.md
@@ -25,7 +25,7 @@ _type: WebPage
 # BOOTCAMP FEBRUARY 2016
 
 READY TO TRY SOMETHING DIFFERENT?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9a8ee7f-d6f4-405e-8c66-32d7d8170946.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4ce3e791762df7387e10e844202f5611f7d2d03.jpg)
 
 Our team would really like you to be a part of our fun fitness community. 
 It's for anyone!! 
