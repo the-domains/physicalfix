@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T07:19:23.564Z'
-dateModified: '2016-02-11T07:19:23.037Z'
+datePublished: '2016-02-11T07:22:29.914Z'
+dateModified: '2016-02-11T07:22:26.952Z'
 title: Our Vision
 author: []
+sourcePath: _posts/2016-02-10-our-vision.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-our-vision.md
-published: true
 url: our-vision/index.html
 _type: Article
 
