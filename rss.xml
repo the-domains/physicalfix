@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Physicalfix]]></title>
-        <description><![CDATA[Physicalfix]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Physical Fix 24 Hr Gym]]></title>
+        <description><![CDATA[Physical Fix 24 Hr Gym]]></description>
+        <link>https://thegrid.ai/physicalfix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 07:07:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 06:30:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/physicalfix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BOOTCAMP FEBRUARY 2016]]></title>
+            <description><![CDATA[<article><h1>BOOTCAMP FEBRUARY 2016</h1><p>READY TO TRY SOMETHING DIFFERENT?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9a8ee7f-d6f4-405e-8c66-32d7d8170946.jpg"></article>]]></description>
+            <link>https://thegrid.ai/physicalfix/bootcamp-february-2016/index.html</link>
+            <guid isPermaLink="false">8f2f9db3-9f2b-4bc5-bce0-1230841385d8</guid>
+            <pubDate>Thu, 11 Feb 2016 06:29:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our Vision]]></title>
-            <description><![CDATA[<article><h1>Our Vision</h1><p>"To create a great social community of people (staff & clients) to join me in having fun, getting fit, achieving results and doing things they never thought possible."</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad2191e8-8425-4f66-ac53-1f134fee44c6.jpg"></article>]]></description>
-            <link>undefinedour-vision/index.html</link>
+            <description><![CDATA[<article><h1>Our Vision</h1><p>"To create a great social community of people (staff & clients) to join me in having fun, getting fit, achieving results and doing things they never thought possible."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e5043256f70a1fbdbf28c6b14033cbeb30d44d8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/physicalfix/our-vision/index.html</link>
             <guid isPermaLink="false">53936ffe-2ee4-4a4d-9dda-b028e816828b</guid>
-            <pubDate>Wed, 10 Feb 2016 07:06:29 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 07:19:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
