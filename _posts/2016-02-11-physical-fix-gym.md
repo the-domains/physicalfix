@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T07:28:08.962Z'
-dateModified: '2016-02-11T07:28:06.173Z'
+datePublished: '2016-02-11T07:32:59.098Z'
+dateModified: '2016-02-11T07:32:56.018Z'
 title: PHYSICAL FIX GYM
 author: []
 sourcePath: _posts/2016-02-11-physical-fix-gym.md
@@ -23,15 +23,15 @@ _type: WebPage
 
 ---
 # PHYSICAL FIX GYM
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2465626c12d5e5636edc27f7d7f66bee2d32100.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/46929065bee6b70f2391983bdaa6517ec683b5d1.png)
 
 ## Everything you need for your fitness goals all in the ONE place 
 
 ## The NEW Physical Fix Gym will be a fully operational gym
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccc6c7e968c4b1041f693702c2776895f91ddb41.jpg)
 
 Full of equipment lines such as "Hammer Strength", "Precore" "Life Fitness" -not to mention the added bonus of our great functional training area, loaded with, "Olympic weights"; "Crossfit Rig"; "Kettlebells"; "Slamballs" just to name a few. 
 It will also have a Group Class area with a full timetable for you to choose from.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccc6c7e968c4b1041f693702c2776895f91ddb41.jpg)
 
 A Brand NEW "KidZone" with extended crèche hours
 (Monday - Friday 8.45am-11am & Monday - Thursday 4.30pm-6.45pm) 
@@ -48,4 +48,4 @@ We will also be offering:
 \* KidzFit & TeenFit Programs 
 \* Nutrition Support 
 \* KidZone (crèche) with am and pm time slots 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62d7d738-b0e8-4d80-b62e-48b7474bf3f0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a9283c1920f5558039148ca3af154152401fac5.jpg)
