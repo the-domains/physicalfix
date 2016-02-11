@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T06:29:16.440Z'
-dateModified: '2016-02-11T06:28:52.633Z'
+datePublished: '2016-02-11T06:33:44.859Z'
+dateModified: '2016-02-11T06:33:36.976Z'
 title: BOOTCAMP FEBRUARY 2016
 author: []
+sourcePath: _posts/2016-02-11-bootcamp-february-2016.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-bootcamp-february-2016.md
-published: true
 url: bootcamp-february-2016/index.html
-_type: Article
+_type: WebPage
 
 ---
 # BOOTCAMP FEBRUARY 2016
