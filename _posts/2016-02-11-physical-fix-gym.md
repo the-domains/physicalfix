@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T07:15:24.634Z'
-dateModified: '2016-02-11T07:15:23.553Z'
+datePublished: '2016-02-11T07:28:08.962Z'
+dateModified: '2016-02-11T07:28:06.173Z'
 title: PHYSICAL FIX GYM
 author: []
 sourcePath: _posts/2016-02-11-physical-fix-gym.md
@@ -31,12 +31,13 @@ _type: WebPage
 
 Full of equipment lines such as "Hammer Strength", "Precore" "Life Fitness" -not to mention the added bonus of our great functional training area, loaded with, "Olympic weights"; "Crossfit Rig"; "Kettlebells"; "Slamballs" just to name a few. 
 It will also have a Group Class area with a full timetable for you to choose from.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccc6c7e968c4b1041f693702c2776895f91ddb41.jpg)
 
 A Brand NEW "KidZone" with extended crèche hours
 (Monday - Friday 8.45am-11am & Monday - Thursday 4.30pm-6.45pm) 
 
 You'll be able to get a full workout to develop your body to living longer & stronger.
-(Not to mention the children will LOVE the new play area) 
+(Not to mention the children will LOVE the new play area) ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d24643022ea40d93d1b958ea56a5f018b16a5ac5.jpg)
 
 We will also be offering:
 
@@ -47,5 +48,4 @@ We will also be offering:
 \* KidzFit & TeenFit Programs 
 \* Nutrition Support 
 \* KidZone (crèche) with am and pm time slots 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccc6c7e968c4b1041f693702c2776895f91ddb41.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d24643022ea40d93d1b958ea56a5f018b16a5ac5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62d7d738-b0e8-4d80-b62e-48b7474bf3f0.jpg)
