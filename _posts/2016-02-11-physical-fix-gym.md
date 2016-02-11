@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T06:51:20.649Z'
-dateModified: '2016-02-11T06:51:07.586Z'
+datePublished: '2016-02-11T06:53:02.987Z'
+dateModified: '2016-02-11T06:52:56.381Z'
 title: PHYSICAL FIX GYM
 author: []
+sourcePath: _posts/2016-02-11-physical-fix-gym.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-physical-fix-gym.md
-published: true
 url: physical-fix-gym/index.html
 _type: WebPage
 
