@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T06:57:55.573Z'
-dateModified: '2016-02-11T06:57:52.699Z'
+datePublished: '2016-02-11T07:15:24.634Z'
+dateModified: '2016-02-11T07:15:23.553Z'
 title: PHYSICAL FIX GYM
 author: []
 sourcePath: _posts/2016-02-11-physical-fix-gym.md
@@ -23,7 +23,7 @@ _type: WebPage
 
 ---
 # PHYSICAL FIX GYM
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49e2c7cf-16de-46b0-80d9-50c126d0012c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2465626c12d5e5636edc27f7d7f66bee2d32100.png)
 
 ## Everything you need for your fitness goals all in the ONE place 
 
@@ -47,5 +47,5 @@ We will also be offering:
 \* KidzFit & TeenFit Programs 
 \* Nutrition Support 
 \* KidZone (crèche) with am and pm time slots 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda6ce3a-930b-4013-9ba1-8597c181b621.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/157d2c79-4dc2-4c84-8a27-9f1932ad7c0f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccc6c7e968c4b1041f693702c2776895f91ddb41.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d24643022ea40d93d1b958ea56a5f018b16a5ac5.jpg)
