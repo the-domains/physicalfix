@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T07:19:37.395Z'
-dateModified: '2016-02-10T07:18:04.221Z'
+datePublished: '2016-02-11T07:19:23.564Z'
+dateModified: '2016-02-11T07:19:23.037Z'
 title: Our Vision
 author: []
 authors: []
@@ -25,7 +25,7 @@ _type: Article
 # Our Vision
 
 "To create a great social community of people (staff & clients) to join me in having fun, getting fit, achieving results and doing things they never thought possible."
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad2191e8-8425-4f66-ac53-1f134fee44c6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e5043256f70a1fbdbf28c6b14033cbeb30d44d8.jpg)
 
 Are you being the best YOU can be?
 
@@ -39,3 +39,4 @@ We are all about exercise with a social aspect!!
 In summary we do fun! We believe fitness should be a POSITIVE experience; provide real, sustainable results; be varied; and most importantly be fun.
 
 COME JOIN IN AND GET FIT AT THE SAME TIME.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23035e06-7e7c-437d-a7fe-bb6719a7f57a.jpg)
