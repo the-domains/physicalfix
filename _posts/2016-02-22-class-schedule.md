@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-22T02:22:20.655Z'
-dateModified: '2016-02-22T02:08:23.584Z'
+description: Weekly Times of Classes
+datePublished: '2016-02-22T02:59:04.054Z'
+dateModified: '2016-02-22T02:46:41.295Z'
 title: Class Schedule
 author: []
 sourcePath: _posts/2016-02-22-class-schedule.md
