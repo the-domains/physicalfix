@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T04:48:01.695Z'
-dateModified: '2016-02-22T04:45:53.760Z'
+datePublished: '2016-02-22T06:37:48.169Z'
+dateModified: '2016-02-22T06:37:47.462Z'
 title: Our Vision
 author: []
 sourcePath: _posts/2016-02-10-our-vision.md
