@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T05:00:54.499Z'
-dateModified: '2016-02-22T04:47:50.632Z'
+datePublished: '2016-02-22T05:07:02.944Z'
+dateModified: '2016-02-22T05:01:02.820Z'
 title: PHYSICAL FIX GYM
 author: []
 sourcePath: _posts/2016-02-11-physical-fix-gym.md
