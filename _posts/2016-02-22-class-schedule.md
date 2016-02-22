@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T02:08:16.500Z'
-dateModified: '2016-02-22T02:08:11.207Z'
+datePublished: '2016-02-22T02:22:20.655Z'
+dateModified: '2016-02-22T02:08:23.584Z'
 title: Class Schedule
 author: []
+sourcePath: _posts/2016-02-22-class-schedule.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-class-schedule.md
-published: true
 url: class-schedule/index.html
 _type: WebPage
 
