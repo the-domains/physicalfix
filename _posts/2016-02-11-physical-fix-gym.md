@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T07:35:07.578Z'
-dateModified: '2016-02-11T07:35:02.981Z'
+datePublished: '2016-02-22T04:47:43.124Z'
+dateModified: '2016-02-22T04:46:10.644Z'
 title: PHYSICAL FIX GYM
 author: []
 sourcePath: _posts/2016-02-11-physical-fix-gym.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: physical-fix-gym/index.html
-_type: WebPage
+_type: Article
 
 ---
 # PHYSICAL FIX GYM
