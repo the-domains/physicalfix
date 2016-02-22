@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T06:33:44.890Z'
-dateModified: '2016-02-22T05:07:11.481Z'
-title: PHYSICAL FIX GYM
+datePublished: '2016-02-22T06:37:29.091Z'
+dateModified: '2016-02-22T06:37:19.600Z'
+title: PHYSICAL FIX 24 HOUR GYM
 author: []
 sourcePath: _posts/2016-02-11-physical-fix-gym.md
 published: true
@@ -22,7 +22,7 @@ url: physical-fix-gym/index.html
 _type: Article
 
 ---
-# PHYSICAL FIX GYM
+# PHYSICAL FIX 24 HOUR GYM
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/46929065bee6b70f2391983bdaa6517ec683b5d1.png)
 
 ## Everything you need for your fitness goals all in the ONE place 
