@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T07:22:29.914Z'
-dateModified: '2016-02-11T07:22:26.952Z'
+datePublished: '2016-02-22T04:48:01.695Z'
+dateModified: '2016-02-22T04:45:53.760Z'
 title: Our Vision
 author: []
 sourcePath: _posts/2016-02-10-our-vision.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: our-vision/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Our Vision
