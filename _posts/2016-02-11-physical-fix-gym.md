@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T06:37:29.091Z'
-dateModified: '2016-02-22T06:37:19.600Z'
+datePublished: '2016-02-22T06:44:08.897Z'
+dateModified: '2016-02-22T06:44:05.923Z'
 title: PHYSICAL FIX 24 HOUR GYM
 author: []
 sourcePath: _posts/2016-02-11-physical-fix-gym.md
@@ -27,7 +27,7 @@ _type: Article
 
 ## Everything you need for your fitness goals all in the ONE place 
 
-## The NEW Physical Fix Gym will be a fully operational gym
+## The NEW Physical Fix Gym is a fully operational gym
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccc6c7e968c4b1041f693702c2776895f91ddb41.jpg)
 
 Full of equipment lines such as "Hammer Strength", "Precore" "Life Fitness" -not to mention the added bonus of our great functional training area, loaded with, "Olympic weights"; "Crossfit Rig"; "Kettlebells"; "Slamballs" just to name a few. 
