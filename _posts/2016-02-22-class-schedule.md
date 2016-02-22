@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Weekly Times of Classes
-datePublished: '2016-02-22T05:58:52.180Z'
-dateModified: '2016-02-22T05:58:07.159Z'
+datePublished: '2016-02-22T06:33:21.090Z'
+dateModified: '2016-02-22T06:32:43.158Z'
 title: Group Class Schedule
 author: []
 sourcePath: _posts/2016-02-22-class-schedule.md
