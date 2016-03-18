@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T06:44:08.897Z'
-dateModified: '2016-02-22T06:44:05.923Z'
+datePublished: '2016-03-18T05:35:18.491Z'
+dateModified: '2016-03-18T05:34:36.374Z'
 title: PHYSICAL FIX 24 HOUR GYM
 author: []
 sourcePath: _posts/2016-02-11-physical-fix-gym.md
