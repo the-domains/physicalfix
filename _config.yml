@@ -1,4 +1,4 @@
-name: Physicalfix
+name: Physicalfix 24 Hr Gym
 favicon: null
 layout_spectrum: 0.48403
 typography_spectrum: 0.32408
@@ -22,7 +22,7 @@ color:
     - '#ed008c'
     - '#fef200'
     - '#f259b4'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.75
   saturation: 1
   rhythmicContrast: 0.75
