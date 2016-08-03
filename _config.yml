@@ -1,20 +1,4 @@
-name: Physicalfix 24 Hr Gym
-favicon: null
-layout_spectrum: 0.48403
 typography_spectrum: 0.32408
-title: Physical Fix 24 Hr Gym
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f9f9f9'
@@ -26,4 +10,21 @@ color:
   lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.48403
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Physicalfix 24 Hr Gym
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Physical Fix 24 Hr Gym
+description: Everything you need for your fitness goals all in one place
 purpose: []
